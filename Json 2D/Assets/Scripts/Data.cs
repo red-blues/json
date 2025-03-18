@@ -2,6 +2,7 @@ using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
 using UnityEditor;
+using UnityEditor.PackageManager;
 using UnityEngine;
 
 [System.Serializable]
@@ -59,8 +60,6 @@ public static class CSVUtils
     [MenuItem("Json Tools/Read and parse CSV")]
     public static void ReadCSV()
     {
-        DataBase dataBase = new DataBase();
-
         string csvFilePath = Path.Combine(Application.dataPath, _resourcesFolderName,
             _csvFileName);
         if (!File.Exists(csvFilePath))
@@ -68,6 +67,8 @@ public static class CSVUtils
             Debug.LogError($"No .csv file at {csvFilePath}");
             return;
         }
+
+        DataBase dataBase = new DataBase();
 
         string[] lines = File.ReadAllLines(csvFilePath);
         for (int i = 1; i < lines.Length; i++)
@@ -80,9 +81,33 @@ public static class CSVUtils
             dataBase.DataInstances.Add(data);
         }
 
+        string jsonFilePath = Path.Combine(Application.persistentDataPath, 
+              _jsonFileName);
         string json = JsonConvert.SerializeObject(dataBase);
-        string jsonFilePath = Path.Combine(Application.dataPath, _resourcesFolderName,
-            _jsonFileName);
         File.WriteAllText(jsonFilePath, json);
+    }
+
+    [MenuItem("Json Tools/Read and debug JSON")]
+    public static bool TryReadJson(out DataBase dataBase)
+    {
+        dataBase = new();
+        string jsonFilePath = Path.Combine(Application.persistentDataPath,
+            _jsonFileName);
+
+        if (!File.Exists(jsonFilePath))
+        {
+            Debug.LogError($"No json file at {jsonFilePath}");
+            return false;
+        }
+
+        string json = File.ReadAllText(jsonFilePath);
+        dataBase = JsonConvert.DeserializeObject<DataBase>(json);
+
+        foreach (Data data in dataBase.DataInstances)
+        {
+            Debug.Log($"{data.Name}: {data.Description}");
+        }
+
+        return true;
     }
 }
