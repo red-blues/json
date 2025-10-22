@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95f01e809181474387d19ebdf0ac220b, type: 3}
+  m_Name: ResourcesViewDataSO
+  m_EditorClassIdentifier: 
+  <ResourcesViewData>k__BackingField:
+  - <ResourceType>k__BackingField: 0
+    <ActiveStateIcon>k__BackingField: {fileID: 3983862128164977181, guid: ef03fd03a5dc3f4468ec7e3b242b338a, type: 3}
+    <DecayStateIcon>k__BackingField: {fileID: 8774741047847436057, guid: ef03fd03a5dc3f4468ec7e3b242b338a, type: 3}
+  - <ResourceType>k__BackingField: 1
+    <ActiveStateIcon>k__BackingField: {fileID: -1067112038586890335, guid: ef03fd03a5dc3f4468ec7e3b242b338a, type: 3}
+    <DecayStateIcon>k__BackingField: {fileID: 3230901550448134448, guid: ef03fd03a5dc3f4468ec7e3b242b338a, type: 3}

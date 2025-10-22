@@ -1,0 +1,1439 @@
+fileFormatVersion: 2
+guid: ef03fd03a5dc3f4468ec7e3b242b338a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7155105746756894344
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_0
+  - first:
+      213: 3824696234975692925
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_1
+  - first:
+      213: 5209775770206627451
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_2
+  - first:
+      213: 4811922285768409548
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_3
+  - first:
+      213: 6809474895854974730
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_4
+  - first:
+      213: -6003430940669951177
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_5
+  - first:
+      213: 3411915729521989304
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_6
+  - first:
+      213: -1451766558224924032
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_7
+  - first:
+      213: 3265976029955670713
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_8
+  - first:
+      213: -286381487401753437
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_9
+  - first:
+      213: 3610703804902867737
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_10
+  - first:
+      213: 4434991140114148965
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_11
+  - first:
+      213: 3983862128164977181
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_12
+  - first:
+      213: -1067112038586890335
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_13
+  - first:
+      213: 6807841825179947956
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_14
+  - first:
+      213: 7406688674431869081
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_15
+  - first:
+      213: -8147424379428065014
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_16
+  - first:
+      213: 1822892112586207343
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_17
+  - first:
+      213: -4248037280054691996
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_18
+  - first:
+      213: -2719498782928513267
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_19
+  - first:
+      213: -4946623348777553827
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_20
+  - first:
+      213: -2474180138127997189
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_21
+  - first:
+      213: -6465284944295055479
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_22
+  - first:
+      213: 765650669657732429
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_23
+  - first:
+      213: 8571999115331455456
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_24
+  - first:
+      213: -7072219204911074134
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_25
+  - first:
+      213: -1160721486371100355
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_26
+  - first:
+      213: -3829097918678606707
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_27
+  - first:
+      213: 8774741047847436057
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_28
+  - first:
+      213: 3230901550448134448
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_29
+  - first:
+      213: -2007881254817777668
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_30
+  - first:
+      213: 730354923304552130
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_31
+  - first:
+      213: 1452117507280901556
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_32
+  - first:
+      213: 2769790429948077873
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_33
+  - first:
+      213: 3996849161021912229
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_34
+  - first:
+      213: -3605996735711634450
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_35
+  - first:
+      213: 2442330815633365919
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_36
+  - first:
+      213: 1707072190525132437
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_37
+  - first:
+      213: -2380843518491491827
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_38
+  - first:
+      213: 5190257459462253759
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_39
+  - first:
+      213: 8540339903158349854
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_40
+  - first:
+      213: -5150438317632161239
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_41
+  - first:
+      213: 624320034182356552
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_42
+  - first:
+      213: 4322342842059158021
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_43
+  - first:
+      213: 1912786180450427881
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_44
+  - first:
+      213: -3470357306674820256
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_45
+  - first:
+      213: 7666745209762626195
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_46
+  - first:
+      213: 8530650318831431471
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_47
+  - first:
+      213: 3367997974259968049
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_48
+  - first:
+      213: 4939186504666115841
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_49
+  - first:
+      213: 1116692969049309763
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_50
+  - first:
+      213: -5380656683971455272
+    second: unknown_horizons_transparent_buildmenu_49_icons_50x50_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88efccd64ca0c4360800000000000000
+      internalID: 7155105746756894344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78008b26fc041530800000000000000
+      internalID: 3824696234975692925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b766a9ed577dc4840800000000000000
+      internalID: 5209775770206627451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1030203d167c240800000000000000
+      internalID: 4811922285768409548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a073062f65d108e50800000000000000
+      internalID: 6809474895854974730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73347c3fd578faca0800000000000000
+      internalID: -6003430940669951177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6d9b5674f895f20800000000000000
+      internalID: 3411915729521989304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0824630d10a4adbe0800000000000000
+      internalID: -1451766558224924032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2c27635e3135d20800000000000000
+      internalID: 3265976029955670713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4ab25fd81960cf0800000000000000
+      internalID: -286381487401753437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9130360fafbcb1230800000000000000
+      internalID: 3610703804902867737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e2280c1f04c8d30800000000000000
+      internalID: 4434991140114148965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ab7678f75894730800000000000000
+      internalID: 3983862128164977181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 280
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a74c74314bd031f0800000000000000
+      internalID: -1067112038586890335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d5ec02105a7e50800000000000000
+      internalID: 6807841825179947956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990ab696b18d9c660800000000000000
+      internalID: 7406688674431869081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0135dd91b88eee80800000000000000
+      internalID: -8147424379428065014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60ff82e7b63c4910800000000000000
+      internalID: 1822892112586207343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46739b1d990fb05c0800000000000000
+      internalID: -4248037280054691996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d075074f346624ad0800000000000000
+      internalID: -2719498782928513267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50f57ac5401a5bb0800000000000000
+      internalID: -4946623348777553827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6cd8ce542f9add0800000000000000
+      internalID: -2474180138127997189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fac930991b646a0800000000000000
+      internalID: -6465284944295055479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d453dfa3a3320aa00800000000000000
+      internalID: 765650669657732429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e94b4c67cbd5f670800000000000000
+      internalID: 8571999115331455456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa474957a1e6add90800000000000000
+      internalID: -7072219204911074134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39efa935f944efe0800000000000000
+      internalID: -1160721486371100355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c59fafabf4cdac0800000000000000
+      internalID: -3829097918678606707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f3cf01e7426c970800000000000000
+      internalID: 8774741047847436057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03948b297d776dc20800000000000000
+      internalID: 3230901550448134448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7bb6f03a29224e0800000000000000
+      internalID: -2007881254817777668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c68683eeedb22a00800000000000000
+      internalID: 730354923304552130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b59a91ed25f62410800000000000000
+      internalID: 1452117507280901556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137e45798b5407620800000000000000
+      internalID: 2769790429948077873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4778fb229a77730800000000000000
+      internalID: 3996849161021912229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb90b2031de4fdc0800000000000000
+      internalID: -3605996735711634450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b11d1dfe6e4e120800000000000000
+      internalID: 2442330815633365919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ec232ec1db0b710800000000000000
+      internalID: 1707072190525132437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0206862f6b85fed0800000000000000
+      internalID: -2380843518491491827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca11409af770840800000000000000
+      internalID: 5190257459462253759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10f8dca4e1658670800000000000000
+      internalID: 8540339903158349854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_41
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a79f763a7f588b0800000000000000
+      internalID: -5150438317632161239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e599763c70aa800800000000000000
+      internalID: 624320034182356552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50273620aeb0cfb30800000000000000
+      internalID: 4322342842059158021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3260195e49b8a10800000000000000
+      internalID: 1912786180450427881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b47f39a60d6dfc0800000000000000
+      internalID: -3470357306674820256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a345be520c56a60800000000000000
+      internalID: 7666745209762626195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f25058445f26670800000000000000
+      internalID: 8530650318831431471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unknown_horizons_transparent_buildmenu_49_icons_50x50_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138200c20588dbe20800000000000000
+      internalID: 3367997974259968049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e44663924a8e0f44c90eb1d457372acd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_0: 7155105746756894344
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_1: 3824696234975692925
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_10: 3610703804902867737
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_11: 4434991140114148965
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_12: 3983862128164977181
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_13: -1067112038586890335
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_14: 6807841825179947956
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_15: 7406688674431869081
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_16: -8147424379428065014
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_17: 1822892112586207343
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_18: -4248037280054691996
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_19: -2719498782928513267
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_2: 5209775770206627451
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_20: -4946623348777553827
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_21: -2474180138127997189
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_22: -6465284944295055479
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_23: 765650669657732429
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_24: 8571999115331455456
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_25: -7072219204911074134
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_26: -1160721486371100355
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_27: -3829097918678606707
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_28: 8774741047847436057
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_29: 3230901550448134448
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_3: 4811922285768409548
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_30: -2007881254817777668
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_31: 730354923304552130
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_32: 1452117507280901556
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_33: 2769790429948077873
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_34: 3996849161021912229
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_35: -3605996735711634450
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_36: 2442330815633365919
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_37: 1707072190525132437
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_38: -2380843518491491827
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_39: 5190257459462253759
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_4: 6809474895854974730
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_40: 8540339903158349854
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_41: -5150438317632161239
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_42: 624320034182356552
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_43: 4322342842059158021
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_44: 1912786180450427881
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_45: -3470357306674820256
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_46: 7666745209762626195
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_47: 8530650318831431471
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_48: 3367997974259968049
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_5: -6003430940669951177
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_6: 3411915729521989304
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_7: -1451766558224924032
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_8: 3265976029955670713
+      unknown_horizons_transparent_buildmenu_49_icons_50x50_9: -286381487401753437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
